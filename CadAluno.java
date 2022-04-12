@@ -13,6 +13,7 @@ public class CadAluno implements Cadastro {
 
 	@Override
 	public void nome(String nome) {
+		System.out.println("\n******Pesquisa de avaliação da merenda escolar do estado de Pernambuco******");
 		System.out.println("\nInsira o seu nome: ");
 		Scanner leia = new Scanner(System.in);
 		nome = leia.nextLine();

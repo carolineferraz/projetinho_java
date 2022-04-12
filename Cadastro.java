@@ -7,6 +7,5 @@ public interface Cadastro {
 	void cpf(String cpf);
 
 	
-	
 
 }

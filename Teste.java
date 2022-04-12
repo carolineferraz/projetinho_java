@@ -8,6 +8,12 @@ public class Teste {
 
 	public static void main(String[] args) {
 		
+		int x=1;
+		
+		for (x=1;x<=2;x++)
+		{
+			
+		
 		CadAluno cadAluno = new CadAluno("");
 		cadAluno.nome("");
 		cadAluno.cpf("");
@@ -45,7 +51,7 @@ public class Teste {
 		minhaLista.add("manga");
 		minhaLista.add("abacaxi");
 		
-		System.out.println("\nQuais dessas frutas você sugere retirar cardápio?");
+		System.out.println("\nQuais dessas frutas você sugeriria retirar cardápio?");
 		System.out.println("Opções disponíveis:");
 		
 		for(String listaFrutas:minhaLista)
@@ -94,11 +100,18 @@ public class Teste {
 		{
 			System.out.println(listaFrutas);
 		}
+		
+		Scanner leia = new Scanner(System.in);
+		
+		
 
-//		System.out.println("\nDigite a opção de fruta que você gostaria de substituir: ");
+		System.out.println("\nSua opinião foi registrada com sucesso, obrigade!");
+		
+		}
 		
 		
 		
+	
 		
 		
 	

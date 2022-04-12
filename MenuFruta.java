@@ -13,9 +13,8 @@ public class MenuFruta extends Menu {
 		int pessimo=0, ruim=0, razoavel=0, bom=0, excelente=0; 
 		int numero;
 		do {
-			System.out.println("****Avaliação da merenda escolar****");
 			System.out.println("Responda as perguntas abaixo de acordo com a sua opinião");
-			System.out.println("Sobre o aspecto visual das frutas servidas na escola: Que nota você daria?" );
+			System.out.println("\nSobre o aspecto visual das frutas servidas na escola: Que nota você daria?" );
 			System.out.println("1. Péssimo" + "\n2. Ruim" + "\n3. Razoável " 
 					+ "\n4. Bom"+"\n5. Excelente");
 			Scanner leia = new Scanner(System.in);
