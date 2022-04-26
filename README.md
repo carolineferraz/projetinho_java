@@ -15,5 +15,4 @@
 #### Utilizando esses conceitos, a ideia foi criar um sistema que permitisse que alunes da rede pública pudessem avaliar a sua merenda escolar, uma proposta para um problema real com relação à qualidade da refeição escolar oferecida em escolas do estado de Pernambuco.
 
 #### Fluxograma:
-
-![anagrama](C:\Users\Caroline\Documents\Cursos\GENERATION BRASIL\00_Entregas\projetinho_java\anagrama.jpg)
+![anagrama](https://user-images.githubusercontent.com/95757534/165356918-f785f040-d1c0-4706-bafd-facaff82907d.jpg)
